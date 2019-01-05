@@ -1,6 +1,6 @@
 # This script will detect faces via your webcam.
  
- import cv2
+import cv2
 capt = cv2.VideoCapture(0)
 # Create the haar cascade
 faceCascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
