@@ -14,6 +14,8 @@ A Face-Recognition software brought to life by the *OpenCV* Library.
 
 ## Results
 
+python3 face_recog.py
+
 ![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/Faces%20found%20Coldplay.png)
 
 ![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/Faces%20found%20Queen.png)
