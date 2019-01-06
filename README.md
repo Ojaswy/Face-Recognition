@@ -3,10 +3,14 @@
 A Face-Recognition software brought to life by the *OpenCV* Library. 
 
 ## Requirements
->> Python 3.5
->> Numpy
->> Scipy
->> OpenCV installation -> pip3 install opencv-python
+
+-> Python 3.5
+
+-> Numpy
+
+-> Scipy
+
+-> OpenCV installation -> pip3 install opencv-python
 
 ## Results
 
