@@ -21,3 +21,4 @@ A Face-Recognition software brought to life by the *OpenCV* Library.
 ![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/Faces%20found%20Queen.png)
 
 *PS:* You can read more about *OpenCV* [here](https://opencv.org/).
+ 
