@@ -1,8 +1,8 @@
 # Face-Recognition
 
-A Face-Recognition software brought to life by the *OpenCV* Library. 
+###### A Face-Recognition software brought to life by the *OpenCV* Library. 
 
-Can Detect Faces on *Webcam* too!
+##### Can Detect Faces on *Webcam* too!
 
 ## Results
 
@@ -16,7 +16,7 @@ Can Detect Faces on *Webcam* too!
 
 ## Requirements
 
--> Python 3.5(.py) & 2.7(webcam_detect.py)
+-> Python 3.5(face_recog.py) & 2.7(webcam_detect.py)
 
 -> Numpy
 
