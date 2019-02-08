@@ -9,19 +9,17 @@
 #### RUN: 
 
 ##### python3  face_recog.py
-###### O/p:
+###### Output:
 
 ![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/Faces%20found%20Coldplay.png)
 
 #### RUN: 
 
 ##### python webcam_detect.py
-###### O/p:
+###### Output(Implemented in Spyder, IPython Console):
 
 ![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/webcam.PNG)
 
-
-*PS:* You can read more about *OpenCV* [here](https://opencv.org/).
 
 ## Requirements
 
@@ -29,4 +27,9 @@
 -> Numpy
 -> Scipy
 -> OpenCV installation -> pip3 install opencv-python
+
+
+*PS:* You can read more about *OpenCV* [here](https://opencv.org/).
+
+
  
