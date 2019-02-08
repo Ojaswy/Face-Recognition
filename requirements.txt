@@ -1,0 +1,4 @@
+-> Python 3.5(face_recog.py) & 2.7(webcam_detect.py)
+-> Numpy
+-> Scipy
+-> OpenCV installation -> pip3 install opencv-python
