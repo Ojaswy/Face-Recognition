@@ -6,16 +6,13 @@
 
 ## Results
 
-#### RUN: 
+#### RUN: ##### python3  face_recog.py
 
-##### python3  face_recog.py
 ###### Output:
 
 ![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/Faces%20found%20Coldplay.png)
 
-#### RUN: 
-
-##### python webcam_detect.py
+#### RUN: ##### python webcam_detect.py
 ###### Output(Implemented in Spyder, IPython Console):
 
 ![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/webcam.PNG)
