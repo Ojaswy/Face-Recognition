@@ -31,7 +31,7 @@ while True:
     print("Found {0} faces , at {1} ".format(len(faces),str(dt.datetime.now())))
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-# When everything is done, release the capture
+# When everything is done, press q to exit.
 print("\n\nDetection Ends at :  {0}  \n\n\n".format(str(dt.datetime.now())))
 video_capture.release()
 cv2.destroyAllWindows()
