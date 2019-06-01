@@ -7,7 +7,7 @@
 ## Results
 
 #### RUN: python3  face_recog.py
-
+ 
 ###### Output:
 
 ![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/Faces%20found%20Coldplay.png)
