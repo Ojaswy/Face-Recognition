@@ -1,5 +1,5 @@
 import cv2
-import sys 
+import sys   
 import datetime as dt
 
 cascPath = "haarcascade_frontalface_default.xml"
