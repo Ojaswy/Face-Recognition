@@ -3,3 +3,4 @@
 -> Scipy
 -> OpenCV installation -> pip3 install opencv-python
      
+ 
