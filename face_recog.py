@@ -1,6 +1,6 @@
 import cv2                                          
 import sys                                          
-
+ 
 # Uncomment the next line to enter image path as a Command-line arguments
 #imagePath = sys.argv[1]
 imagePath = 'coldplay.jpg'                            
