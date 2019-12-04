@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face-Recognition 
  
 ###### A Face-Recognition software brought to life by the *OpenCV* Library. 
 
