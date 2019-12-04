@@ -10,7 +10,7 @@
  
 ###### Output:
 
-![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/Faces%20found%20recog.png)
+![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/recog.png)
 
 #### RUN: python webcam_detect.py
 ###### Output(Implemented in Spyder, IPython Console):
