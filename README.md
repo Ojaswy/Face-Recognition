@@ -15,7 +15,7 @@
 #### RUN: python webcam_detect.py
 ###### Output(Implemented in Spyder, IPython Console):
 
-![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/webcam.PNG) 
+![](https://github.com/Ojaswy/Face-Recognition/blob/master/images/webcam.PNG?raw=true) 
 
 
 *PS:* You can read more about *OpenCV* [here](https://opencv.org/).
